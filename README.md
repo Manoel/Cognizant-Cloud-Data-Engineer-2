@@ -18,9 +18,7 @@ Os 3 Projetos que você irá desenvolver
 * Descomplicando a criação de pacotes de processamento de imagens em Python
 
 * MySql - Como modelar um banco de controle de séries assistidas
-* 
-
-Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
+* Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
 
 ---------------------------------
 
