@@ -1,5 +1,5 @@
-# Cognizant-Cloud-Data-Engineer-2
-Cognizant Cloud Data Engineer #2
+[![](https://github.com/Manoel/Cognizant-Cloud-Data-Engineer-2/blob/main/logo.jpg)](https://www.linkedin.com/in/manoel-rodrigues-do-nascimento-2359a732)
+
 
 Duração: 95 horas
 
